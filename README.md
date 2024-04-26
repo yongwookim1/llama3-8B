@@ -11,6 +11,12 @@ git clone https://github.com/yongwookim1/llama3-8B.git .
 cd ollama-modelfile/Llama-3-8B-Instruct
 ```
 
+### Download gguf file
+
+Download this model to "ollama-modelfile/Llama-3-8B-Instruct/"
+
+[https://huggingface.co/QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/tree/main](https://huggingface.co/QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/blob/main/Meta-Llama-3-8B-Instruct.Q5_0.gguf)
+
 ### Create llama3-8B
 
 ```bash
